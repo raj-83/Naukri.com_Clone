@@ -55,5 +55,5 @@ Nuakri.com is a very famous site for finding a relevant job according to your sk
 
 
 ## For more details, here is our blog
-[Blog](https://medium.com/@arakr0436/how-we-build-the-naukri-com-clone-cf9a596c6095)
+
 
