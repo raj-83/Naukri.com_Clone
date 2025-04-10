@@ -13,10 +13,6 @@ Nuakri.com is a very famous site for finding a relevant job according to your sk
 ## Deployment Link:-
 [naukri-clone-f36472.netlify.app](https://naukri-clone-f36472.netlify.app/)
 
-## Contributers :- 
-- #### [Satendra Kumar](www.linkedin.com/in/satendra-yadav-5b8067170/)
-- #### [Salem-Basumata](https://www.linkedin.com/in/salem-basumata/)
-- #### [Athul-Ponthen](https://www.linkedin.com/in/athul-ponthen/)
 
 
 
